@@ -12,4 +12,4 @@ Proje çalıştırıldığı zaman gelen kullanıcı arayüzünde işlemler yer 
 ##### PUT{id}: Id bilgisini girdiğimiz veriyi istediğimiz şekilde günceller.
 ##### DELETE{id}: Id bilgisini girdiğimiz veriyi, veri tabanından siler.
 
-Arayüz kullanımında yapmak istediğimiz işlemi seçip 'Try it out' kısmından işlemi gerçekleştirebiliriz.
+Arayüz kullanımında yapmak istediğimiz işlemi seçip 'Try it out' ardından 'Execute' kısmından işlemi gerçekleştirebiliriz.
